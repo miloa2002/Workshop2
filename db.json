@@ -1,0 +1,182 @@
+{
+    "peliculas" : [
+        {
+            "id" : "1",
+            "nombre" : "El padrino",
+            "puntaje" : 9.2,
+            "puntajeTotal" : 10,
+            "generoOne" : "thriler",
+            "generoDos" : "drama",
+            "imagen" : "https://imgs.search.brave.com/JVfgbcVfK3cJcKpRsphSd2YRGAUvXwJUZMh5ICrS1fc/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5v/c1kyMlJwYXhReGpo/ZmRrNEYtTFJRSGFF/SyZwaWQ9QXBp"
+        },
+        {
+            "id" : "2",
+            "nombre" : "The Dark Knigth",
+            "puntaje" : 10,
+            "puntajeTotal" : 10,
+            "generoOne" : "accion",
+            "imagen" : "https://imgs.search.brave.com/V9mOAgOilPLpx818mXAse064EVgIvQeciuCwb7Py8iw/rs:fit:713:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC42/OXV3d1F4b19pTFNT/QTB2dDlMYjB3SGFF/NyZwaWQ9QXBp"
+        },
+        {
+            "id" : "3",
+            "nombre" : "Pulp fiction",
+            "puntaje" : 8,
+            "puntajeTotal" : 10,
+            "generoOne" : "acción",
+            "imagen" : "https://imgs.search.brave.com/HS2cMANLPBdzsdJEipzm7sqQFaz4HfT8Xyh2LDD5kGk/rs:fit:722:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5T/TF9YMzNHVUxEd1dj/RkR0QmtsZkpRSGFF/MyZwaWQ9QXBp"
+        },
+        {
+            "id" : "4",
+            "nombre" : "Lord Of the rings",
+            "puntaje" : 8.7,
+            "puntajeTotal" : 10,
+            "generoOne" : "aventura",
+            "generoDos" : "fantasía",
+            "imagen" : "https://imgs.search.brave.com/dKCDtORssji5CjEGPnGYj8dQ7U9ntatWcfk3VnAcmqY/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5f/WnpoVTFNWTBkWXYz/WTZLMDRGVG5nSGFF/byZwaWQ9QXBp"
+        },
+        {
+            "id" : "5",
+            "nombre" : "Figth club",
+            "puntaje" : 8.7,
+            "puntajeTotal" : 10,
+            "generoOne" : "Lucha",
+            "generoDos" : "accion",
+            "imagen" : "https://imgs.search.brave.com/_Yhd9bMhaiis7G-joS1WKwtTjQNmLHa3apVvMEzpINo/rs:fit:736:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5s/dGJlMjI5WTlFRWRn/S1BBMC14Y0JRRTNE/SSZwaWQ9QXBp"
+        },
+        {
+            "id" : "6",
+            "nombre" : "Black adam",
+            "puntaje" : 8.7,
+            "puntajeTotal" : 10,
+            "generoOne" : "Accion",
+            "generoDos" : "ciencia ficcion",
+            "imagen" : "https://imgs.search.brave.com/rkLCICsZvd0_MxjpjSS8TfFQR1RXjYqKKnxWlMt_3YA/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5u/ckFyNkg3blVocmN6/Y2dUMzlwTHVBSGFF/SyZwaWQ9QXBp"
+        },
+                {
+            "id" : "7",
+            "nombre" : "Interstellar",
+            "puntaje" : 8.7,
+            "puntajeTotal" : 10,
+            "generoOne" : "Accion",
+            "generoDos" : "ciencia ficcion",
+            "imagen" : "https://imgs.search.brave.com/9d-okdhm75hV8QFhfdX5wXKizSsMJ9s2We_zSwbObsI/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5o/MU5XV0ZMTnFhTUVE/LUtpVXAxTGhnSGFF/byZwaWQ9QXBp"
+        },
+                {
+            "id" : "8",
+            "nombre" : "Forrest Gump",
+            "puntaje" : 8.7,
+            "puntajeTotal" : 10,
+            "generoOne" : "Accion",
+            "generoDos" : "ciencia ficcion",
+            "imagen" : "https://imgs.search.brave.com/Us-LpXMl_RefLYdNgbWismzX3XS4hE2WOj2-iooimjE/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5E/WFNVbnByX1lULU5G/NVJwZmtydDhRSGFF/SyZwaWQ9QXBp"
+        },
+                {
+            "id" : "9",
+            "nombre" : "The Matrix",
+            "puntaje" : 8.7,
+            "puntajeTotal" : 10,
+            "generoOne" : "Accion",
+            "generoDos" : "ciencia ficcion",
+            "imagen" : "https://imgs.search.brave.com/hWsX7wZLweWTpvv9mayjj2ClR3SFVWaS82JwieWDn4U/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC41/TGc5MHUxZmdmQmRZ/ZDE2bVp5ZlNnSGFF/SyZwaWQ9QXBp"
+        },
+                {
+            "id" : "10",
+            "nombre" : "El viaje de Chihiro",
+            "puntaje" : 8.7,
+            "puntajeTotal" : 10,
+            "generoOne" : "Accion",
+            "generoDos" : "ciencia ficcion",
+            "imagen" : "https://imgs.search.brave.com/eXPkOxZ6Hu2MovhyQiwV763DTqfEFK8v56Rx21rw4ws/rs:fit:739:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5F/SDFBUkVjaU1kakR6/d2xJQWwzS2t3SGFF/dyZwaWQ9QXBp"
+        },
+                {
+            "id" : "11",
+            "nombre" : "Jumanji",
+            "puntaje" : 8.7,
+            "puntajeTotal" : 10,
+            "generoOne" : "Accion",
+            "generoDos" : "ciencia ficcion",
+            "imagen" : "https://cdn.forbes.com.mx/2021/09/Jumanji-hbo-max-640x360.jpg"
+        },
+                {
+            "id" : "12",
+            "nombre" : "Avengers End Game",
+            "puntaje" : 8.7,
+            "puntajeTotal" : 10,
+            "generoOne" : "Accion",
+            "generoDos" : "ciencia ficcion",
+            "imagen" : "https://imgs.search.brave.com/NVZ9DNMfht5RYZDrDWReEt25Wit0TK3Lla7CEbNcQXM/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5W/SHUxRm1jck0zcXlq/ckNfZnJaMDF3SGFF/byZwaWQ9QXBp"
+        },
+                {
+            "id" : "13",
+            "nombre" : "El origen",
+            "puntaje" : 8.7,
+            "puntajeTotal" : 10,
+            "generoOne" : "Accion",
+            "generoDos" : "ciencia ficcion",
+            "imagen" : "https://imgs.search.brave.com/thClBNteARmJVOqtM6Y-gGGL5CE5tUK08oYTQCUgMgk/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5r/dzBBTFJlcDVaR2lI/X2dya0tiS3dBSGFG/aiZwaWQ9QXBp"
+        },
+                {
+            "id" : "14",
+            "nombre" : "Avatar",
+            "puntaje" : 8.7,
+            "puntajeTotal" : 10,
+            "generoOne" : "Accion",
+            "generoDos" : "ciencia ficcion",
+            "imagen" : "https://www.gndiario.com/sites/default/files/noticias/mejores-peliculas-2022%20%281%29.jpg"
+        },
+                {
+            "id" : "15",
+            "nombre" : "Coco",
+            "puntaje" : 8.7,
+            "puntajeTotal" : 10,
+            "generoOne" : "Accion",
+            "generoDos" : "ciencia ficcion",
+            "imagen" : "https://imgs.search.brave.com/N9gMskIvzmm_S8WBQumuiKjBeA3YKYuJJSo3xUNuBGo/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5R/WGNTMTVyMkptUHB2/LUdsaWFCbjRnSGFF/SyZwaWQ9QXBp"
+        },
+                {
+            "id" : "16",
+            "nombre" : "Scarface",
+            "puntaje" : 8.7,
+            "puntajeTotal" : 10,
+            "generoOne" : "Accion",
+            "generoDos" : "ciencia ficcion",
+            "imagen" : "https://imgs.search.brave.com/RoJlKSM7nh1UuzIjMEitNYmou9NZFmRkwsJ3Tk4WEm4/rs:fit:902:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5F/ZjJ0V2ZadHU2UzJf/dFVCejhzbHRnSGFE/NSZwaWQ9QXBp"
+        },
+                {
+            "id" : "17",
+            "nombre" : "UP",
+            "puntaje" : 8.7,
+            "puntajeTotal" : 10,
+            "generoOne" : "Accion",
+            "generoDos" : "ciencia ficcion",
+            "imagen" : "https://imgs.search.brave.com/d73ZM2X4B65vrKS0gxfvz67LMgZ2-6pFDaJBeJL7geU/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4w/WjhNVjVYTjVaMVlK/alRsZk9pSXJRSGFF/SyZwaWQ9QXBp"
+        },
+                {
+            "id" : "18",
+            "nombre" : "El Laberinto del fauno",
+            "puntaje" : 8.7,
+            "puntajeTotal" : 10,
+            "generoOne" : "Accion",
+            "generoDos" : "ciencia ficcion",
+            "imagen" : "https://imgs.search.brave.com/ZravWk6MKHKgqyrRxmgGA8yuGsfn_yOrgFZHY0z5p3w/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5P/UktjT0dTR1pyRS0x/X0pSQUVvZzJRSGFG/aiZwaWQ9QXBp"
+        },
+                {
+            "id" : "19",
+            "nombre" : "IT (ESO)",
+            "puntaje" : 8.7,
+            "puntajeTotal" : 10,
+            "generoOne" : "Accion",
+            "generoDos" : "ciencia ficcion",
+            "imagen" : "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2019/01/pennywise.jpg?itok=yqkLI8iN"
+        },
+                {
+            "id" : "20",
+            "nombre" : "La monja",
+            "puntaje" : 8.7,
+            "puntajeTotal" : 10,
+            "generoOne" : "Accion",
+            "generoDos" : "ciencia ficcion",
+            "imagen" : "https://imgs.search.brave.com/rp8vyccKYf4eMEB0p5_aegv0E6lOSLhCbqH2dJVNEtQ/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5k/LXozaVMtZ20taXlr/LXp0dTNjSU9BSGFF/SyZwaWQ9QXBp"
+        }
+    ]
+}

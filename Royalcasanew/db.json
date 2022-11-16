@@ -1,0 +1,112 @@
+{
+    "inmobiliaria": [
+        {
+            "id": "1",
+            "img": "images/propiedades/Property Image-5.png",
+            "nombre": "SVG_BURBUJA 4M2- LA CEJA",
+            "ubicacion": "La Ceja",
+            "area": "4M2",
+            "Nhabitaciones": 2,
+            "Nbaños": 4,
+            "Tipo": "casa",
+            "disponibilidad": "venta",
+            "precio": 160000000,
+            "parqueadero": "si",
+            "propietario": {
+                "nombreP": "Armando",
+                "contacto": 3333648
+            },
+            "descripcion": "Burbuja  en La Ceja,  Sector ciudad jardín"
+        },
+        {
+            "id": "2",
+            "img": "images/propiedades/Property Image-4.png",
+            "nombre": "MPR",
+            "ubicacion": "EL RETIRO",
+            "area": "3.664M2",
+            "Nhabitaciones": 4,
+            "Nbaños": 2,
+            "Tipo": "finca",
+            "disponibilidad": "venta",
+            "precio": 640000000,
+            "parqueadero": "no",
+            "propietario": {
+                "nombreP": "Rodrigo",
+                "contacto": 3156854571
+            },
+            "descripcion": "lagos, decks, zona de lectura, bbq, picnics, kiosco, senderos para caminar, portería las 24 horas."
+        },
+        {
+            "id": "3",
+            "img": "images/propiedades/Property Image-3.png",
+            "nombre": "ÁVILA",
+            "ubicacion": "Rionegro, sector El Yarumo",
+            "area": " 2.400m2",
+            "Nhabitaciones": 0,
+            "Nbaños": 0,
+            "Tipo": "lote",
+            "disponibilidad": "venta",
+            "precio": 576000000,
+            "parqueadero": "no",
+            "propietario": {
+                "nombreP": "Kelly",
+                "contacto": 5106854571
+            },
+            "descripcion": "zona de mascotas, parque central, zona de lectura, zona activa, zona de estar, parque infantil y portería."
+        },
+        {
+            "id": "4",
+            "img": "images/propiedades/Property Image-2.png",
+            "nombre": "ESSENZA",
+            "ubicacion": "Sabaneta",
+            "area": " 2000m2",
+            "Nhabitaciones": 5,
+            "Nbaños": 3,
+            "Tipo": "apartamento",
+            "disponibilidad": "renta",
+            "precio": 750000000,
+            "parqueadero": "si",
+            "propietario": {
+                "nombreP": "Fredy",
+                "contacto": 8116859581
+            },
+            "descripcion": "2 porterías, sendero lineal de 4 kilómetros que recorre toda la vía principal y sus ramales, salón de reuniones de copropietarios en la portería principal, iluminación de zonas comunes en paneles solares con luz led, servicios de agua, luz, alcantarillado y tuberías subterráneas para internet, tv y teléfono."
+        },
+        {
+            "id": "5",
+            "img": "images/propiedades/Property Image-1.png",
+            "nombre": "RESERVA SILVESTRE",
+            "ubicacion": "Girardota",
+            "area": " 2.000m2",
+            "Nhabitaciones": 0,
+            "Nbaños": 0,
+            "Tipo": "finca",
+            "disponibilidad": "venta",
+            "precio": 560000000,
+            "parqueadero": "si",
+            "propietario": {
+                "nombreP": "Margarita",
+                "contacto": 10116859575
+            },
+            "descripcion": "Zonas comunes: Juegos Infantiles, cancha Futbol 5, cancha multifuncional, club house, gimnasio al aire libre, cancha de tenis, sendero para caminantes, lagos artificiales."
+        },
+        {
+            "id": "6",
+            "img": "images/propiedades/Property Image.png",
+            "nombre": "Casa en Venta",
+            "ubicacion": "Loma Del Esmeraldal",
+            "area": " 230m2",
+            "Nhabitaciones": 4,
+            "Nbaños": 4,
+            "Tipo": "casa",
+            "disponibilidad": "venta",
+            "precio": 900000000,
+            "parqueadero": "no",
+            "propietario": {
+                "nombreP": "Camilo",
+                "contacto": 6058564413
+            },
+            "descripcion": "Si compras con nosotros, te brindamos asesoría personalizada durante todo el proceso. ¡Comienza una nueva etapa con Houm Compra fácil, rápido y seguro."
+        }
+    ]
+}
